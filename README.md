@@ -7,6 +7,7 @@
   <p align="left" >
     Passionate about all things computer and technology 💻. I excel in delivering quality work and continuous learning 📚.<br/> I believe in the importance of teamwork and can work effectively as part of a team or independently 🤝.<br/> I have excellent communication skills and the ability to thrive in a fast-paced environment 🚀.
   </p>
+  <br/>
     <div align="right">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ql490&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
   </div>
