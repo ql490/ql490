@@ -1,7 +1,12 @@
 <div>
   <h1>Hi there 👋,</h1>
   <p> I'm Abeer Al-Bakri Al-Shehri</p>
-  <p>A passionate frontend developer from Saudi Arabia 🇸🇦</p>
+  <p>A passionate frontend developer from Saudi Arabia <span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png" height="15" />
+  </span> </p>
+  <p align="left" >
+    Passionate about all things computer and technology 💻. I excel in delivering quality work and continuous learning 📚.<br/> I believe in the importance of teamwork and can work effectively as part of a team or independently 🤝.<br/> I have excellent communication skills and the ability to thrive in a fast-paced environment 🚀.
+  </p>
     <div align="right">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ql490&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
   </div>
@@ -9,8 +14,9 @@
 
 ###
 
-
+<br/>
 <h3 align="left">Languages and Tools:</h3>
+<br/>
 <p align="left"> 
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30"/> 
@@ -79,8 +85,11 @@
 
 
 ###
+<br/>
 
 <div align="left">
+  <h3 align="left">Connect with me:</h3>
+  <br/>
   <a href="https://x.com/ql49_"><img src="https://img.shields.io/badge/@ql49__-000?logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X Badge"></a>
   <a href="mailto:alshehriabeermoh@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
