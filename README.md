@@ -82,10 +82,10 @@
 
 <div align="left">
   <a href="https://x.com/ql49_"><img src="https://img.shields.io/badge/@ql49__-000?logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X Badge"></a>
-  <a href="">
+  <a href="mailto:alshehriabeermoh@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
-  <a>
+  <a href="www.linkedin.com/in/ql49">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
